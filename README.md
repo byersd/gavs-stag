@@ -26,6 +26,8 @@ Some Beer Gardens.
 - [**Seehaus im Englischen Garten**](https://www.google.co.uk/maps/place/Seehaus+im+Englischen+Garten,Munich/)
 - [**Waldwirtschaft Großhesselohe**](https://www.google.co.uk/maps/place/Waldwirtschaft+Großhesselohe,Munich/)
 
+<br/>
+
 ---
 
 # Beer Halls
@@ -35,6 +37,8 @@ Some Beer Halls.
 - [**Augustiner-Keller**](https://www.google.co.uk/maps/place/Augustiner-Keller,Munich/)
 - [**Hofbräuhaus München**](https://www.google.co.uk/maps/place/Hofbräuhaus+München,Munich/)
 - [**Paulaner Bräuhaus**](https://www.google.co.uk/maps/place/Paulaner+Bräuhaus,Munich/)
+
+<br/>
 
 ---
 
@@ -46,6 +50,8 @@ Some Bars/Pubs.
 - [**Café Kosmos**](https://www.google.co.uk/maps/place/Café+Kosmos,Munich/)
 - [**Holy Spirit 1 Bar**](https://www.google.co.uk/maps/place/Holy+Spirit+1+Bar,Munich/)
 
+<br/>
+
 ---
 
 # Coffee
@@ -54,6 +60,8 @@ Coffee options.
 - [**Man Versus Machine**](https://www.google.co.uk/maps/place/Adalbertstraße+10+80799+Munich/)
 - [**Mahlefitz coffee roasting and café**](https://www.google.co.uk/maps/place/Mahlefitz+coffee+roasting+and+café,Munich/)
 - [**Standl 20 - Da wo's an Kaffee gibt**](https://www.google.co.uk/maps/place/Standl+20+-+Da+wo's+an+Kaffee+gibt,Munich/)
+
+<br/>
 
 ---
 
