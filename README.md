@@ -10,7 +10,6 @@ Just a few minutes from Marienplatz by U-Bahn, the old artists' quarter of Munic
 ---
 
 # Hostel
-Hostel info, below.
 
 - [**Jaeger's Munich**](https://www.google.co.uk/maps/place/Jaeger's+Munich/) - Senefelderstraße 3 80336 München
 
@@ -19,7 +18,6 @@ Hostel info, below.
 ---
 
 # Beer Gardens
-Some Beer Gardens.
 
 - [**Max Emanuel Brauerei**](https://www.google.co.uk/maps/place/Adalbertstraße+33+80799+Munich/)
 - [**Hirschgarten**](https://www.google.co.uk/maps/place/Hirschgarten,Munich/)
@@ -31,7 +29,6 @@ Some Beer Gardens.
 ---
 
 # Beer Halls
-Some Beer Halls.
 
 - [**Augustiner Bräustuben**](https://www.google.co.uk/maps/place/Augustiner+Bräustuben,Munich/)
 - [**Augustiner-Keller**](https://www.google.co.uk/maps/place/Augustiner-Keller,Munich/)
@@ -43,7 +40,6 @@ Some Beer Halls.
 ---
 
 # Bars/Pubs
-Some Bars/Pubs.
 
 - [**Corleone-Neuland**](https://www.google.co.uk/maps/place/Sendlinger-Tor-Platz+7+80336+Munich/)
 - [**Favorit-Bar**](https://www.google.co.uk/maps/place/Favorit-Bar,Munich/)
@@ -55,7 +51,6 @@ Some Bars/Pubs.
 ---
 
 # Coffee
-Coffee options.
 
 - [**Man Versus Machine**](https://www.google.co.uk/maps/place/Adalbertstraße+10+80799+Munich/)
 - [**Mahlefitz coffee roasting and café**](https://www.google.co.uk/maps/place/Mahlefitz+coffee+roasting+and+café,Munich/)
