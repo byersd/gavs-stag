@@ -14,6 +14,8 @@ Hostel info, below.
 
 - [**Jaeger's Munich**](https://www.google.co.uk/maps/place/Jaeger's+Munich/) - Senefelderstraße 3 80336 München
 
+<br/>
+
 ---
 
 # Beer Gardens
