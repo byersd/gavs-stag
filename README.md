@@ -12,40 +12,46 @@ Just a few minutes from Marienplatz by U-Bahn, the old artists' quarter of Munic
 # Hostel
 Hostel info, below.
 
-- [**Jaeger's Munich**](https://www.google.co.uk/maps/place/Jaeger's+Munich/) - Senefelderstraße 3 , 80336 München
+- [**Jaeger's Munich**](https://www.google.co.uk/maps/place/Jaeger's+Munich/) - Senefelderstraße 3 80336 München
 
 ---
 
-# Header
-Blah blah blah.
+# Beer Gardens
+Some Beer Gardens.
 
-### Sub-Header
-Blah blah blah.
-
-### Sub-Header
-Blah blah blah.
-
----
-
-# Header
-Blah blah blah.
-
-### Sub-Header
-Blah blah blah.
-
-### Sub-Header
-Blah blah blah.
+- [**Max Emanuel Brauerei**](https://www.google.co.uk/maps/place/Adalbertstraße+33+80799+Munich/)
+- [**Hirschgarten**](https://www.google.co.uk/maps/place/Hirschgarten,Munich/)
+- [**Seehaus im Englischen Garten**](https://www.google.co.uk/maps/place/Seehaus+im+Englischen+Garten,Munich/)
+- [**Waldwirtschaft Großhesselohe**](https://www.google.co.uk/maps/place/Waldwirtschaft+Großhesselohe,Munich/)
 
 ---
 
-# Header
-Blah blah blah.
+# Beer Halls
+Some Beer Halls.
 
-### Sub-Header
-Blah blah blah.
+- [**Augustiner Bräustuben**](https://www.google.co.uk/maps/place/Augustiner+Bräustuben,Munich/)
+- [**Augustiner-Keller**](https://www.google.co.uk/maps/place/Augustiner-Keller,Munich/)
+- [**Hofbräuhaus München**](https://www.google.co.uk/maps/place/Hofbräuhaus+München,Munich/)
+- [**Paulaner Bräuhaus**](https://www.google.co.uk/maps/place/Paulaner+Bräuhaus,Munich/)
 
-### Sub-Header
-Blah blah blah.
+---
+
+# Bars/Pubs
+Some Bars/Pubs.
+
+- [**Corleone-Neuland**](https://www.google.co.uk/maps/place/Sendlinger-Tor-Platz+7+80336+Munich/)
+- [**Favorit-Bar**](https://www.google.co.uk/maps/place/Favorit-Bar,Munich/)
+- [**Café Kosmos**](https://www.google.co.uk/maps/place/Café+Kosmos,Munich/)
+- [**Holy Spirit 1 Bar**](https://www.google.co.uk/maps/place/Holy+Spirit+1+Bar,Munich/)
+
+---
+
+# Coffee
+Coffee options.
+
+- [**Man Versus Machine**](https://www.google.co.uk/maps/place/Adalbertstraße+10+80799+Munich/)
+- [**Mahlefitz coffee roasting and café**](https://www.google.co.uk/maps/place/Mahlefitz+coffee+roasting+and+café,Munich/)
+- [**Standl 20 - Da wo's an Kaffee gibt**](https://www.google.co.uk/maps/place/Standl+20+-+Da+wo's+an+Kaffee+gibt,Munich/)
 
 ---
 
