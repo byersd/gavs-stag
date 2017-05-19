@@ -1,5 +1,5 @@
 # Munich
-General info on Munich, below.
+Munich info, below.
 
 ### Old Town
 Action is centred in the medieval Old Town (Altstadt), originally located within the old town walls, which have long ceded to a ring road. A pedestrian thoroughfare spans Karlstor on the west side (near the train station) and Isartor on the east side of the ring. Walk it in about 15 minutes, taking in the main shops and many of the major landmarks. The circular Altstadt is only about one square kilometre, but this small area has enough shops, theatres, museums, historical sites, churches and beer gardens to attract 300,000 visitors a day.
@@ -12,8 +12,7 @@ Just a few minutes from Marienplatz by U-Bahn, the old artists' quarter of Munic
 # Hostel
 Hostel info, below.
 
-### [Jaeger's Munich](https://www.google.co.uk/maps/place/Jaeger's+Munich/)
-Senefelderstraße 3, 80336 München
+- [**Jaeger's Munich**](https://www.google.co.uk/maps/place/Jaeger's+Munich/) (Senefelderstraße 3 , 80336 München)
 
 ---
 
